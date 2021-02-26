@@ -1,32 +1,32 @@
 
-#app[data-v-2d079afc] {
+#app[data-v-b5071daa] {
   font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '\5FAE\8F6F\96C5\9ED1', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-html[data-v-2d079afc] {
+html[data-v-b5071daa] {
   min-height: 100vh;
 }
-*[data-v-2d079afc]{
+*[data-v-b5071daa]{
   box-sizing: border-box;
 }
 
-pre[data-v-3498393a]{
+pre[data-v-a0e402aa]{
 }
 @media (max-width:500px){
-pre[data-v-3498393a]{
+pre[data-v-a0e402aa]{
 }
 }
-.code[data-v-3498393a] {
+.code[data-v-a0e402aa] {
   display: none;
   transform: rotateY(10deg) translateZ(-100px) ;
 }
 
 @media (max-width:500px){
-.resumeEditor[data-v-40a436ee]{
+.resumeEditor[data-v-24671f9d]{
 }
 }
-.htmlMode[data-v-40a436ee] {
+.htmlMode[data-v-24671f9d] {
   animation: flip 2s;
 }
 @keyframes flip {
@@ -41,18 +41,18 @@ to {
 *{box-sizing: border-box;}
 *::before{box-sizing: border-box;}
 *::after{box-sizing: border-box;}
-#app[data-v-77efa097] {
+#app[data-v-1c586808] {
   font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '\5FAE\8F6F\96C5\9ED1', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   min-height: 100vh; position: relative;
 }
-html[data-v-77efa097] {
+html[data-v-1c586808] {
   min-height: 100vh;
 }
-*[data-v-77efa097]{
+*[data-v-1c586808]{
   box-sizing: border-box;
 }
 
 
-/*# sourceMappingURL=app.831250003b860f6352a81c3543e9bd76.css.map*/
+/*# sourceMappingURL=app.0ad4570286a9e607834f4e4e1518caab.css.map*/
